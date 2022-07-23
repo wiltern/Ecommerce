@@ -1,0 +1,12 @@
+Nilson e Willy  tela de cadastro de cliente cadastro de cliente(pessoa fisica e juridica) com endereços 6 e 8 
+
+André Dallier Arraes home e catalogo 2 OK
+
+Daniella Larissa Guimarães  e João Vitor  pagina do produto + indicador de icones no carrinho 3 e 4 ok 
+
+Marco Aurélio da Silva e Sidney François checkout 5 10  ok 
+
+Nilson e Willy  tela de cadastro de cliente cadastro de cliente(pessoa fisica e juridica) com endereços 6 e 8  ok 
+
+busca em tempo real + carrinho de compras em aberto Tiago da Luz Nunes Cirqueira e Jean Carlos Bento 7 + 9 
+
