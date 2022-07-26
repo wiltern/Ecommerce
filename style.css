@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: #883049;
+    background-color: #F7D6E7;
     width: 100%;
     padding: 2px;
 }
@@ -53,7 +53,7 @@ header {
 .sociais button {
     width: 30px;
     height: 30px;
-    background-color: #883049;
+    background-color: #F7D6E7;
     border: none;
     margin-right: 15px;
     cursor: pointer;
